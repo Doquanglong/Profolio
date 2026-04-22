@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Profolio/static/css/main.bfcb7a7c.css",
-    "main.js": "/Profolio/static/js/main.1258dff1.js",
+    "main.css": "/Profolio/static/css/main.3f32d982.css",
+    "main.js": "/Profolio/static/js/main.dc039bd4.js",
     "static/media/about2.png": "/Profolio/static/media/about2.f4faa1eaca1ed095bd1f.png",
     "static/media/recon.png": "/Profolio/static/media/recon.0395969e751df6febfb1.png",
     "static/media/profolio.png": "/Profolio/static/media/profolio.6998790a7ba7b981f913.png",
     "static/media/color.png": "/Profolio/static/media/color.052c94ba743cb9eb1a3a.png",
     "static/media/kali.png": "/Profolio/static/media/kali.cbaf89ab2d55c29263f0.png",
     "static/media/metasploit.png": "/Profolio/static/media/metasploit.eddd5999ceb0a06bf0b3.png",
+    "static/media/resume Do Long.pdf": "/Profolio/static/media/resume Do Long.48e71a0ac15014b41c39.pdf",
     "static/media/weather.jpg": "/Profolio/static/media/weather.d1c606aca727c7a4dc0b.jpg",
     "static/media/react.png": "/Profolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/burpsuite.jpg": "/Profolio/static/media/burpsuite.43943f517ec73ba98a62.jpg",
@@ -17,11 +18,11 @@
     "static/media/javascript.png": "/Profolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/top10.webp": "/Profolio/static/media/top10.cd3af8e23ea857cd0011.webp",
     "index.html": "/Profolio/index.html",
-    "main.bfcb7a7c.css.map": "/Profolio/static/css/main.bfcb7a7c.css.map",
-    "main.1258dff1.js.map": "/Profolio/static/js/main.1258dff1.js.map"
+    "main.3f32d982.css.map": "/Profolio/static/css/main.3f32d982.css.map",
+    "main.dc039bd4.js.map": "/Profolio/static/js/main.dc039bd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfcb7a7c.css",
-    "static/js/main.1258dff1.js"
+    "static/css/main.3f32d982.css",
+    "static/js/main.dc039bd4.js"
   ]
 }
